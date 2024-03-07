@@ -10,4 +10,4 @@ Report.md is the markdown file (use this for github)
 models.R contains the barebone code for the models and prediction
 
 HTML markdown (report.html)
-Rpubs:https://github.com/Manvendra2711/practical-machine-learning
+Rpubs:https://github.com/Manvendra2711/Practical-Machine-Learning
