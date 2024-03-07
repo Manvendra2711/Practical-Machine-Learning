@@ -329,7 +329,7 @@ print(pred)
 
 # Appendix
 
-Github Repo: [Github](https://github.com/b-zhang93/Practical-Machine-Learning-Project)
+Github Repo: [Github](https://github.com/Manvendra2711/Practical-Machine-Learning)
 
 correlation matrix of variables in training set
 
